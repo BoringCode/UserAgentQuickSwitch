@@ -1,0 +1,1 @@
+{"license": "", "description": "Quickly switch the browser user agent.", "contributors": [], "author": "BoringCode", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "0.5.1.rev115", "lib": "lib", "fullName": "User Agent Quick Switch", "main": "main", "id": "jid0-62jR3sq6mHTLknusEa92dfyvGcs", "name": "user-agent-quick-switch"}
