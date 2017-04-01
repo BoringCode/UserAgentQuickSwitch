@@ -8,4 +8,4 @@ Firefox no longer supports this type of addon, but feel free to port it to the W
 
 ## License
 
-Licensed under the Mozilla Public License 2.0. &copy 2017 Bradley Rosenfeld
+Licensed under the Mozilla Public License 2.0. Copyright (c) 2017 Bradley Rosenfeld
